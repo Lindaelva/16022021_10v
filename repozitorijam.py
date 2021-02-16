@@ -3,7 +3,7 @@ print(5+6)
 #Tatjana Grencione
 print(5**3)
 #1)Andersone Linda Elva
-print(4-2*6)
+print(4-2*6-1)
 #2)Apsîtis Edvards
 
 #3)Èeròevièa Letîcija Lîna
