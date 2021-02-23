@@ -1,1 +1,1 @@
-# 16022021_10vMan izdevas sodien prakstiskaja darba veikt izmainas
+# 16022021_10v
